@@ -10,11 +10,6 @@ venv/
 .venv/
 env/
 
-# Data and Models
-data/raw/
-data/external/
-models/
-
 # PyCharm
 .idea/workspace.xml
 .idea/dataSources/
