@@ -19,6 +19,8 @@ env/
 .idea/dictionaries
 .idea/scopes/
 
+data
+
 # OS
 .DS_Store
 Thumbs.db
