@@ -19,7 +19,7 @@ env/
 .idea/dictionaries
 .idea/scopes/
 
-data
+data/
 
 # OS
 .DS_Store
