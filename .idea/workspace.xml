@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2f7659c-e028-4dca-b8de-1ba920a38b29" name="Changes" comment="Models trained">
+    <list default="true" id="f2f7659c-e028-4dca-b8de-1ba920a38b29" name="Changes" comment="Models evaluated">
       <change afterPath="$PROJECT_DIR$/data/raw/2022_US_Region_Mobility_Report.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/data/raw/Weekly_United_States_COVID-19_Cases_and_Deaths_by_State.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/data/raw/desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/mlda.16417.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/mlda.16417.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -73,6 +75,8 @@
       <recent name="C:\Users\Zafarbek\PycharmProjects\JupyterProject\data\raw" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Zafarbek\PycharmProjects\JupyterProject\joblibs" />
+      <recent name="C:\Users\Zafarbek\PycharmProjects\JupyterProject" />
       <recent name="C:\Users\Zafarbek\PycharmProjects\JupyterProject\data\generated" />
     </key>
   </component>
@@ -99,6 +103,7 @@
       <workItem from="1764823914672" duration="2304000" />
       <workItem from="1764931195085" duration="2014000" />
       <workItem from="1764933263178" duration="9389000" />
+      <workItem from="1764948966348" duration="6143000" />
     </task>
     <task id="LOCAL-00001" summary="initial project setup">
       <option name="closed" value="true" />
@@ -148,7 +153,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764947655734</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Models evaluated">
+      <option name="closed" value="true" />
+      <created>1764949082990</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1764949082990</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +185,7 @@
     <MESSAGE value="EDA &amp; data preparation completed" />
     <MESSAGE value="Dataset prepared" />
     <MESSAGE value="Models trained" />
-    <option name="LAST_COMMIT_MESSAGE" value="Models trained" />
+    <MESSAGE value="Models evaluated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Models evaluated" />
   </component>
 </project>
